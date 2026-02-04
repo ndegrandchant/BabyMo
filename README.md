@@ -9,5 +9,3 @@ Its functions are the following.
 Provide light Feedback information to the 'parents' room Red = fever, temperature above 37 degrees Blue = motion, the baby is awake
 Display the Fever and Pulse in the LCD screen
 Sound a buzzer when a fever is detected
-
-Nicolas de Grandchant
